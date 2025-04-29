@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore generated/reference audio files
+ValenceArousal_analysis/Reference_Audio/
+
+
